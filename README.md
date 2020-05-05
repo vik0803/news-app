@@ -1,5 +1,7 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
+
+1
 # Build a news aggregator site with Laravel and newsapi.org  
 
 This is a simple implementation of how to a news aggregator site with Laravel and newsapi.org
